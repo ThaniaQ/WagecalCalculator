@@ -22,6 +22,7 @@ Button Clr;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         HrWorked = (EditText) findViewById(R.id.HrWorked);
         HrRate = (EditText) findViewById(R.id.HrRate);
         TWage = (TextView) findViewById(R.id.TWage);
